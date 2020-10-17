@@ -1,1 +1,2 @@
 I love git branchs!
+and merging too!
